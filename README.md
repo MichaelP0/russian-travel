@@ -12,3 +12,6 @@
 - Figma
 - Типограф
 - Сглаживание шрифтов
+
+### ссылка на сайт:
+https://michaelp0.github.io/russian-travel/index.html
